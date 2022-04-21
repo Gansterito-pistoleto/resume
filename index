@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="outlines.css">
+    <title>Портфолио</title>
+  </head>
+
+     <section class="hero-image">
+  <body>
+   <meta charset="UTF-8">
+   <img src="https://sun9-29.userapi.com/impg/q6i4RjA8DOznxNuzHfA2bMwMcdHRMbz3395rfQ/0PDdmNnCG7o.jpg?size=810x1080&quality=96&sign=3e01fc92f24fd2fc4da1ea16d8f497e7&type=album";
+   width="640" height="480" aligh="center"  hspace="10" vspace="10"/>
+  </body> 
+     </section>     
+      <main>
+    <section class="hero-image">
+      <h1 class="heading">Шевцов Александр</h1>
+      <p>+79649226555</p>
+      <p> программист</p>
+      <p>Начинаю делать сайты</p>
+    </section>
+
+
+    <div class="loader">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+    <button onclick="window.location.href = 'https://vk.com/spacex2077';">Вконтакте</button>
+
+    <section class="intro">
+       <h2 id="watchme">АЛЕКСАНДР</h2>
+      <p>Хочу стать крутым специалистом.
+      </p>
+      <p>Физик и математик.</p>
+      <p>Жду обращений по контактом </p>
+      <ul id="output">
+      </ul>
+    </section>
+
+    <section class="portfolio">
+
+      <h3>Блог начинающего верстальщика</h3>
+      <p>Статический блог про обучение HTML и CSS.</p>
+      <p>Научу программированию</p>
+      <p> не пожалеете</p>
+    </section>
+    <section class="end">
+      <h3>Увлекаюсь всем что связано с космосом и физикой</h3>
+      <p>играю в шахматы</p>
+      <p>Люблю плавать</p> 
+      <p>и стрельбу из лука</p>
+    </section>
+      </main>
+       <p><a href="https://vk.com/spacex2077"; target="_blank">ВК</a>
+       </body>
+  </html>
